@@ -1,0 +1,8 @@
+#travel 0
+#magic 1
+#bmw 2
+#mitsubishi 2
+#mma 3
+#invisibility 1
+#Australia 0
+#nissan 2
